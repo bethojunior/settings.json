@@ -17,6 +17,8 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "workbench.settings.applyToAllProfiles": [
+    
+
   
   "prettier.tabWidth"],
   "editor.tabSize": 2,
@@ -46,7 +48,16 @@
   "editor.smoothScrolling": true,
   "workbench.navigationControl.enabled": false,
   "chat.commandCenter.enabled": false,
-  "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
-  "workbench.colorTheme": "Ayu Mirage Bordered"
+  "workbench.colorTheme": "Ayu Mirage Bordered",
+  "explorer.confirmDragAndDrop": false,
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "git.openRepositoryInParentFolders": "never",
+  "json.schemas": [
+  
+  ],
+  "geminicodeassist.project": "custom-photon-k1nhr",
+  "geminicodeassist.displayInlineContextHint": false,
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1"
 }
